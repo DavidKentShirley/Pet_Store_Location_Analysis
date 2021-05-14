@@ -2,7 +2,7 @@
 
 <img src="https://github.com/DavidKentShirley/FI_Phase1_Project/blob/main/img/%F0%9F%98%BAPet_Store_analysis_using_Yelp_Fusion%F0%9F%98%BA.png?raw=true" width="1000" height="300">
 
-### By David Shirley & Claire Dunne
+### By David Shirley & Clare Dunne
 
 ## Check Out the map!!  [Pet Stores Map](https://sites.google.com/view/just-a-map/home?authuser=1 "Heading link")
 ## Overview
@@ -64,9 +64,10 @@ From the data frame, this zip code is 10021, between Lenox Hill and the Upper Ea
 However, zip codes can be irregular in shape. What if this zip code, while containing only three existing pet stores, has more just outside its boundaries? <br />
 This is difficult to tell from numeric data, so instead we used folium to map the specific locations, and see whether this is the case. <br />
 
+<br />
 
+<img src="https://github.com/DavidKentShirley/FI_Phase1_Project/blob/main/img/with%20zip.png?raw=true" width="1000" height="600">
 
-# Insert IMG
 
 Since there are no pet stores immediately outside the boundaries of 10021, our expectation of there being sufficient market share for a fourth pet store in 10021 is valid.
 
