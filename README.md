@@ -6,19 +6,16 @@
 
 ## Check Out the map!!  [Pet Stores Map](https://sites.google.com/view/just-a-map/home?authuser=1 "Heading link")
 ## Overview
-<img src="https://github.com/DavidKentShirley/FI_Phase1_Project/blob/main/img/NewBusiness.png?raw=true" width="1000" height="600">
+The business in question is a pet store. The business question is where to locate it. We utilized a variety of data, outlined below, to develop an answer to this question, in the form of three concrete recommendations.
 
 ## Data Collection
-**Which Data?**<br />
+Which data did we collect? We used the Yelp API to get information on pet stores, vets, and dog parks in Manhattan and Queens. We cleaned it by removing any businesses that were closed, had invalid zip codes, or whose first category alias was not specifically the business type we were searching for. <br />
 
-**Helpful Data**<br />
+We also collected average household income and population data for all the pertinent zip codes. <br />
 
-* Yelp API: Stores, Parks, Vets.
-* Population and household Income.<br />
+We did not utilize price point data, since 99.3% of pet stores from the API call did not have any. <br />
 
-**Not So Much**
-* Explicit ownership
-* Price points
+Although information regarding licensed dogs is also available, we omitted it since it is estimated that only 20% of dogs in NYC are licensed with the city. This information may also be out of date due to the uptick in pet adoption since the beginning of the Coronavirus pandemic. Furthermore, pet stores cater to owners of pets other than dogs. <br />
 
 It is important to go through the data once you collect it to see which is helpful for answering your question. Once the data has been filtered down to what you need you should do some basic analysis of it to see what factors there are and what you should comapre it to.
 
