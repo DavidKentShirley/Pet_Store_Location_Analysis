@@ -70,3 +70,8 @@ Since there are no pet stores immediately outside the boundaries of 10021, our e
 
 # Recommendation #3<br />
 The zip code 10021 has a high population, a high average household income, a high instance of vets, and one fewer pet stores than you might expect in Manhattan. We would locate a new pet store in this zip code.
+
+## Authors
+[David Shirley](https://github.com/DavidKentShirley)
+
+[Clare Dunne](https://github.com/clareadunne)
