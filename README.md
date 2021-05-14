@@ -41,8 +41,8 @@ Queens?<br />
 Manhattan?
 
 
-<img src="https://github.com/DavidKentShirley/FI_Phase1_Project/blob/main/img/chart%202.png?raw=true" width="400" height="500">
-<img src="https://github.com/DavidKentShirley/FI_Phase1_Project/blob/main/img/unnamed.png?raw=true" width="400" height="500">
+<img src="https://github.com/DavidKentShirley/FI_Phase1_Project/blob/main/img/image%20(2).png?raw=true" width="1000" height="600">
+
 
 ## The Dog That Dug The Data
 **Which Zip Code?**
