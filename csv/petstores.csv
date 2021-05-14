@@ -10,12 +10,12 @@
 8,t9_yKbLU-aVCD7c8tDhclw,Nyc Pet Knickerbocker,22,3.5,11237,40.7013940581259,-73.9228962968823,petstore
 9,wDPjpXOMi6r-ook5zCOtng,Muddy Paws,64,4.5,11211,40.718566,-73.94532,petstore
 10,CqGQ3iNCqengbwuMhXjRuA,Petco,56,3.0,11370,40.758891,-73.892302,petstore
-11,4BxJEdhnbU3T7_9J1DE_dg,Astoria Pets,112,2.0,11103,40.76007,-73.91842,petstore
-12,R1hK3cLoDBDUKnsAAvO8aQ,PS9 Pet Supplies,115,4.0,11211,40.7187411189079,-73.9561300724745,petstore
-13,mIeABi9uZ_xgYiRK9rgjGQ,Pet Club,5,4.0,11103,40.76326,-73.9158,petstore
-14,i-tDDfhpVTQ_nDJ96QZFmg,Teacup Pup,69,2.0,11375,40.7209094,-73.8462392,petstore
+11,i-tDDfhpVTQ_nDJ96QZFmg,Teacup Pup,69,2.0,11375,40.7209094,-73.8462392,petstore
+12,4BxJEdhnbU3T7_9J1DE_dg,Astoria Pets,112,2.0,11103,40.76007,-73.91842,petstore
+13,R1hK3cLoDBDUKnsAAvO8aQ,PS9 Pet Supplies,115,4.0,11211,40.7187411189079,-73.9561300724745,petstore
+14,DDs_zWTd4-IQyuvWaFtimw,Whisker's Holistic Pet Care,60,4.0,11105,40.7808473466347,-73.9170436282244,petstore
 15,mkcAr-P9REo-GhhLmZEOLw,Bushwick Bark,124,4.5,11237,40.704075,-73.927116,petstore
-16,DDs_zWTd4-IQyuvWaFtimw,Whisker's Holistic Pet Care,60,4.0,11105,40.7808473466347,-73.9170436282244,petstore
+16,mIeABi9uZ_xgYiRK9rgjGQ,Pet Club,5,4.0,11103,40.76326,-73.9158,petstore
 17,8uNiuc5akmfHFJR2_XOTfA,Animal Planet,36,4.5,11222,40.73565,-73.95482,petstore
 18,Bctl6Ha83u2BKwPkSfwxNw,Pet Town,31,5.0,10128,40.77778,-73.94835,petstore
 19,3s_s4wqTlvkxRlD5yaxjzw,NYC Pet,52,3.0,11211,40.71884,-73.9542699,petstore
@@ -24,128 +24,478 @@
 22,B-kjCextgC5QB5yJnrVfCA,Pets on the Run,18,4.0,11222,40.73286,-73.95486,petstore
 23,RpOtosl5m46soAAb4PFM1A,Spoiled Brats,57,4.5,10019,40.762321472168,-73.9887161254883,petstore
 24,mgmejPGqdZ2KNiaGZTUlRA,The Pet Bar,34,4.5,10012,40.7265299,-74.00115,petstore
-25,IMw1Jr7T96is-7lccQUT3w,Petopia,59,3.5,10009,40.7232,-73.98579,petstore
-26,P6s9pV8A69BV1fiCmGvr5Q,Pet Central,27,4.0,10016,40.7481079548597,-73.9826410263777,petstore
-27,IRkX_wh8k_-bji2YPYB2Zg,Petco,71,2.5,11374,40.711,-73.8583,petstore
+25,1Ry-X7zFcxW5NPwfCIZCkw,Pets Unlimited Ltd,40,1.5,11104,40.74619,-73.91809,petstore
+26,IMw1Jr7T96is-7lccQUT3w,Petopia,59,3.5,10009,40.7232,-73.98579,petstore
+27,P6s9pV8A69BV1fiCmGvr5Q,Pet Central,27,4.0,10016,40.7481079548597,-73.9826410263777,petstore
 28,GZs1APmUGGQWURPWllhm7Q,Whiskers Holistic Petcare,199,4.5,10003,40.7294344214766,-73.9875531569123,petstore
-29,1Ry-X7zFcxW5NPwfCIZCkw,Pets Unlimited Ltd,40,1.5,11104,40.74619,-73.91809,petstore
-30,yc0AK8DAKTQF3JuDI1Ta4w,NYC Pet,15,4.0,11211,40.718551,-73.964591,petstore
-31,HbcQDWgobqmWVkAGtCedog,District Dog,49,4.0,11222,40.723208,-73.944333,petstore
-32,dwIgqxMCyO1jTEBQ_0uyaw,Pet NV Discounts,10,4.0,11206,40.701181,-73.930088,petstore
-33,JVl7jO-VQ6mPTn5UE8RRYQ,M & M Pet Boutique & Supplies,20,5.0,11385,40.71321,-73.90832,groomer
-34,tRQQ0phuCRwWtwA9ZVumdw,Who's your Doggy,41,4.0,11216,40.68317,-73.940789,petstore
-35,TJTHMSagX-B7-L7z2gXJUQ,Vitalityhealthpets,3,5.0,11103,40.75685,-73.9139,petstore
-36,MXFq9nJrCzepFRZTg-6MnA,BeastyFeast,37,4.5,10014,40.740462,-74.003816,groomer
-37,SNbcN72ChK-AWrhYU7SSVQ,Calling All Pets,62,4.5,10028,40.777781,-73.948388,petstore
-38,gxMLTap163ma5RJNK0EiNg,Hoboken Pet,37,4.5,07030,40.74305,-74.02951,petstore
+29,yc0AK8DAKTQF3JuDI1Ta4w,NYC Pet,15,4.0,11211,40.718551,-73.964591,petstore
+30,HbcQDWgobqmWVkAGtCedog,District Dog,49,4.0,11222,40.723208,-73.944333,petstore
+31,dwIgqxMCyO1jTEBQ_0uyaw,Pet NV Discounts,10,4.0,11206,40.701181,-73.930088,petstore
+32,IRkX_wh8k_-bji2YPYB2Zg,Petco,71,2.5,11374,40.711,-73.8583,petstore
+33,tRQQ0phuCRwWtwA9ZVumdw,Who's your Doggy,41,4.0,11216,40.68317,-73.940789,petstore
+34,SNbcN72ChK-AWrhYU7SSVQ,Calling All Pets,62,4.5,10028,40.777781,-73.948388,petstore
+35,gxMLTap163ma5RJNK0EiNg,Hoboken Pet,37,4.5,07030,40.74305,-74.02951,petstore
+36,JVl7jO-VQ6mPTn5UE8RRYQ,M & M Pet Boutique & Supplies,20,5.0,11385,40.71321,-73.90832,groomer
+37,TJTHMSagX-B7-L7z2gXJUQ,Vitalityhealthpets,3,5.0,11103,40.75685,-73.9139,petstore
+38,MXFq9nJrCzepFRZTg-6MnA,BeastyFeast,37,4.5,10014,40.740462,-74.003816,groomer
 39,tYZEFqmbGEA0cN6SGz7Swg,Petropolis,83,4.5,10006,40.7078248,-74.0144897,petstore
 40,smrAc3HGKtHgH7NTLsfyNQ,Bushwick Bark on Irving,9,4.0,11237,40.7021115,-73.9194372,petstore
-41,t36xFSGO7okM8bObiXO2aQ,Vanity Pups Boutique,122,3.5,11361,40.7662,-73.7719,pet_sitting
+41,vMnpIF36DCqm_oadF0XAVg,Beowoof Provisions For Pets,48,4.5,49007,42.2879325315553,-85.583188,petstore
 42,4nSfS6gn79VnrPlGbb0vIw,Petopia,46,4.0,10016,40.74247,-73.98077,petstore
 43,4qs29vihIdNMsRgw4o2lKQ,Pet Ark,57,4.5,10031,40.823913,-73.951774,petstore
-44,DErhHywHkmjSiVCsWpfCog,Petco,40,3.0,11374,40.733176,-73.8625498071261,groomer
-45,rhLlJG0vaK1RhDYZTCJPzA,Pet Supplied,10,4.5,11222,40.7293774,-73.9593635,petstore
-46,vMnpIF36DCqm_oadF0XAVg,Beowoof Provisions For Pets,48,4.5,49007,42.2879325315553,-85.583188,petstore
-47,hWxfKRcG-OE4r8CWWmnySg,Tom’s Pet Supply,27,4.5,11106,40.7653343157785,-73.9311959447963,petstore
-48,FtO9SM8dUQKJ5fhJ23NwSA,Rainbow Pet Supplies and Grooming,17,4.5,11377,40.746864,-73.906124,petstore
-49,YtJXZdh3lnuH2JuDtXBqqQ,NYC Pet,19,2.5,11211,40.712708,-73.943779,petstore
-0,LAiqXJc47Ozbu0zzr_m0KQ,Disco Paws,76,4.5,11105,40.7757999,-73.90977,pet_sitting
-1,fMYD1ncPMre0jkCPtx-S5A,Empire Puppies,73,2.5,11358,40.7606899,-73.80149,petstore
-2,VuWvNK2zYmW1AUypJvVTmA,Pet Supplies Plus - Howard Beach,19,4.0,11414,40.67129,-73.85599,groomer
-3,0YYRwi1nNFdmQg52bfuIGA,Cornerstone Pets,42,4.5,07030,40.7472731173038,-74.0281185507774,petstore
-4,FLZMAotStErwivVm8oT9mg,Love Thy Pet,44,5.0,11231,40.683582,-74.00093,petstore
-5,L9SKVe8qIvL_ZUrWwitdfQ,Château le Woof,116,4.5,11106,40.7691527,-73.9353705,petstore
-6,1Xg7UBwgEb-3Vc_kae31cA,Happy Feet Pet Shop,37,4.5,10019,40.7654228210449,-73.9909057617188,petstore
-7,A5isQeSW76pMwnXwIpeZEg,NYC Pet,35,3.5,11205,40.69317,-73.96666,petstore
+44,rhLlJG0vaK1RhDYZTCJPzA,Pet Supplied,10,4.5,11222,40.7293774,-73.9593635,petstore
+45,t36xFSGO7okM8bObiXO2aQ,Vanity Pups Boutique,122,3.5,11361,40.7662,-73.7719,pet_sitting
+46,YtJXZdh3lnuH2JuDtXBqqQ,NYC Pet,19,2.5,11211,40.712708,-73.943779,petstore
+47,DErhHywHkmjSiVCsWpfCog,Petco,40,3.0,11374,40.733176,-73.8625498071261,groomer
+48,hWxfKRcG-OE4r8CWWmnySg,Tom’s Pet Supply,27,4.5,11106,40.7653343157785,-73.9311959447963,petstore
+49,FtO9SM8dUQKJ5fhJ23NwSA,Rainbow Pet Supplies and Grooming,17,4.5,11377,40.746864,-73.906124,petstore
+0,0YYRwi1nNFdmQg52bfuIGA,Cornerstone Pets,42,4.5,07030,40.7472731173038,-74.0281185507774,petstore
+1,FLZMAotStErwivVm8oT9mg,Love Thy Pet,44,5.0,11231,40.683582,-74.00093,petstore
+2,LAiqXJc47Ozbu0zzr_m0KQ,Disco Paws,76,4.5,11105,40.7757999,-73.90977,pet_sitting
+3,1Xg7UBwgEb-3Vc_kae31cA,Happy Feet Pet Shop,37,4.5,10019,40.7654228210449,-73.9909057617188,petstore
+4,fMYD1ncPMre0jkCPtx-S5A,Empire Puppies,72,2.5,11358,40.7606899,-73.80149,petstore
+5,VuWvNK2zYmW1AUypJvVTmA,Pet Supplies Plus - Howard Beach,19,4.0,11414,40.67129,-73.85599,groomer
+6,A5isQeSW76pMwnXwIpeZEg,NYC Pet,35,3.5,11205,40.69317,-73.96666,petstore
+7,L9SKVe8qIvL_ZUrWwitdfQ,Château le Woof,116,4.5,11106,40.7691527,-73.9353705,petstore
 8,DMFCyvDRbJwdJMaew-_HZg,I Love My Pet Food and Supplies,21,4.5,11225,40.6659073,-73.9507388323545,petstore
-9,SO2lJjaNpazzZA6fczHxzQ,Tropical Pets,9,3.0,11368,40.7463684082031,-73.8548202514648,petstore
-10,lIqO1IOUr5lbWV-hQ82LnQ,Pet Promise,65,4.5,11201,40.70375,-73.98809,petstore
+9,lIqO1IOUr5lbWV-hQ82LnQ,Pet Promise,65,4.5,11201,40.70375,-73.98809,petstore
+10,SO2lJjaNpazzZA6fczHxzQ,Tropical Pets,9,3.0,11368,40.7463684082031,-73.8548202514648,petstore
 11,o7ja0NftF0t8bIQJJgGP4Q,Park slope Pet,10,5.0,11215,40.66958,-73.98772,petstore
-12,iTpr61LrJBKE_xi65QJnFw,Pet Central,14,4.5,10025,40.7975973,-73.9699918,petstore
-13,ymyU-LwOrIs3M0K3_YJr1g,Petco,62,3.5,10022,40.7564,-73.9677345392521,petstore
-14,GThowpOJFqCX4tscP1nY8A,Brooklyn Paw House,90,5.0,11226,40.64076,-73.95567,groomer
-15,JTYumBmfynOB9VOa1niJ-g,Zoomies,72,4.5,10014,40.7307599,-74.00659,petstore
-16,NN88D1gbs4aWWS-e_vfV3g,Treats & Tips,46,4.0,11101,40.7547417283058,-73.9166144281626,pet_sitting
-17,iyUVK2qNEX75HhhfyeM39g,Hound About Town,25,4.5,07302,40.7177585,-74.044498,petstore
-18,poojCvc1erIhfi35j0wsRQ,Trixie's Pet Food Supplies & Accessories,48,4.5,11225,40.65964,-73.9604,petstore
-19,nGJCCZJEF6UTmJMvhOmBaw,Le Pitou,87,3.0,11375,40.7175658,-73.8357179,groomer
-20,QYrl_RVHe9ENQG5vyWiwUg,Animal Fare,40,4.5,11218,40.655,-73.97354,petstore
-21,K0iR_a2f5ISP8NY663-P3A,Fussy Friends Pet Supply,67,4.5,07302,40.720703,-74.043839,petstore
-22,Iiozty3NEZQ3L9bFuDrjhg,Petco,53,4.5,11362,40.76516484258,-73.72584541165666,petstore
-23,qINp1PxYqe3z_RoeHgZa0A,Love Thy Beast,47,4.0,10003,40.7265701658019,-73.9884869344849,petstore
-24,-jY2lSVPGmLhf_ekiZOjmQ,Happy Paws,135,3.5,10012,40.7253854,-73.9952721,groomer
-25,Mk9HyBj3147jp5fA4kq68g,Pet Boutique & Supplies,37,4.0,11217,40.6781883239746,-73.9757690429688,petstore
-26,eTqmm-qOh4nStAcR6Ezn7A,Zee.Dog - SoHo,15,4.5,10012,40.722013,-74.00001300000001,petstore
-27,nKtdl4gdHnjeeS5C3HTTqg,Grand Ave Pet Supplies,2,5.0,11378,40.73,-73.88956,petstore
-28,hCfb89uoLd1doFVPup3sNg,Acme Pet Food,72,4.0,11238,40.677454,-73.969245,petstore
-29,3SRgNvOGtCEnEzHoCsxfEw,Spoiled Brats,56,4.5,10033,40.850806,-73.936663,petstore
-30,EV0FXq9TRnom5XAkKTDz_Q,Beastie Bestie Pet Provisions,5,5.0,11238,40.67301,-73.95686,petstore
-31,5y6yfi7eK-x_e5k6ffa9bg,NYC Pet,23,3.5,11215,40.6651725769043,-73.9827041625977,petstore
-32,QD6_PM_Ivu-ixJEYA5w-zQ,Pet Emporium,28,4.5,11201,40.69523724442946,-73.99538845979713,petstore
-33,M8lpSyffVwG6K2LoviTsEw,Petopia,34,3.5,10009,40.730766,-73.981645,petstore
-34,FULPpi6P6Pdu0eRh0qAclg,Petco,87,3.0,11356,40.78303213851068,-73.83510744110397,pet_training
-35,2ABowmcDEYPCm2ML9M3IGg,Monster Aquarium,92,4.0,11354,40.7557131,-73.8360704,aquariumservices
-36,BiX5BWryDaEWqZbux0VSCQ,Petqua,48,4.0,10025,40.7960476,-73.9704849,petstore
-37,swJrw6ffk0456Qv9no0Hkg,Puppy Paws,55,2.0,11417,40.6807098,-73.8440933,petstore
-38,4P7XARsnFiC8PU_rZN6FwQ,Paradise Aquarium,31,3.0,11385,40.708518,-73.898452,petstore
+12,JTYumBmfynOB9VOa1niJ-g,Zoomies,72,4.5,10014,40.7307599,-74.00659,petstore
+13,iTpr61LrJBKE_xi65QJnFw,Pet Central,14,4.5,10025,40.7975973,-73.9699918,petstore
+14,ymyU-LwOrIs3M0K3_YJr1g,Petco,62,3.5,10022,40.7564,-73.9677345392521,petstore
+15,nGJCCZJEF6UTmJMvhOmBaw,Le Pitou,87,3.0,11375,40.7175658,-73.8357179,groomer
+16,iyUVK2qNEX75HhhfyeM39g,Hound About Town,25,4.5,07302,40.7177585,-74.044498,petstore
+17,poojCvc1erIhfi35j0wsRQ,Trixie's Pet Food Supplies & Accessories,48,4.5,11225,40.65964,-73.9604,petstore
+18,QYrl_RVHe9ENQG5vyWiwUg,Animal Fare,40,4.5,11218,40.655,-73.97354,petstore
+19,K0iR_a2f5ISP8NY663-P3A,Fussy Friends Pet Supply,67,4.5,07302,40.720703,-74.043839,petstore
+20,Mk9HyBj3147jp5fA4kq68g,Pet Boutique & Supplies,37,4.0,11217,40.6781883239746,-73.9757690429688,petstore
+21,eTqmm-qOh4nStAcR6Ezn7A,Zee.Dog - SoHo,15,4.5,10012,40.722013,-74.00001300000001,petstore
+22,GThowpOJFqCX4tscP1nY8A,Brooklyn Paw House,90,5.0,11226,40.64076,-73.95567,groomer
+23,NN88D1gbs4aWWS-e_vfV3g,Treats & Tips,46,4.0,11101,40.7547417283058,-73.9166144281626,pet_sitting
+24,Iiozty3NEZQ3L9bFuDrjhg,Petco,53,4.5,11362,40.76516484258,-73.72584541165666,petstore
+25,qINp1PxYqe3z_RoeHgZa0A,Love Thy Beast,47,4.0,10003,40.7265701658019,-73.9884869344849,petstore
+26,3SRgNvOGtCEnEzHoCsxfEw,Spoiled Brats,56,4.5,10033,40.850806,-73.936663,petstore
+27,hCfb89uoLd1doFVPup3sNg,Acme Pet Food,72,4.0,11238,40.677454,-73.969245,petstore
+28,EV0FXq9TRnom5XAkKTDz_Q,Beastie Bestie Pet Provisions,5,5.0,11238,40.67301,-73.95686,petstore
+29,5y6yfi7eK-x_e5k6ffa9bg,NYC Pet,23,3.5,11215,40.6651725769043,-73.9827041625977,petstore
+30,QD6_PM_Ivu-ixJEYA5w-zQ,Pet Emporium,28,4.5,11201,40.69523724442946,-73.99538845979713,petstore
+31,M8lpSyffVwG6K2LoviTsEw,Petopia,34,3.5,10009,40.730766,-73.981645,petstore
+32,-jY2lSVPGmLhf_ekiZOjmQ,Happy Paws,135,3.5,10012,40.7253854,-73.9952721,groomer
+33,nKtdl4gdHnjeeS5C3HTTqg,Grand Ave Pet Supplies,2,5.0,11378,40.73,-73.88956,petstore
+34,BiX5BWryDaEWqZbux0VSCQ,Petqua,48,4.0,10025,40.7960476,-73.9704849,petstore
+35,FULPpi6P6Pdu0eRh0qAclg,Petco,87,3.0,11356,40.78303213851068,-73.83510744110397,pet_training
+36,4P7XARsnFiC8PU_rZN6FwQ,Paradise Aquarium,31,3.0,11385,40.708518,-73.898452,petstore
+37,2ABowmcDEYPCm2ML9M3IGg,Monster Aquarium,92,4.0,11354,40.7557131,-73.8360704,aquariumservices
+38,LFBjdkKJ_e4N24QKrWpThA,Furry Paws,34,3.0,10128,40.78473,-73.94939,petstore
 39,T2zAV95n_BvYflq9LkIcIw,Pet Central,12,5.0,10023,40.78203,-73.98147,petstore
-40,SU9o7rtGirFSf-u_j2U-9Q,Vinny's Pet Shop,57,5.0,11220,40.634151,-74.021949,petstore
-41,LFBjdkKJ_e4N24QKrWpThA,Furry Paws,34,3.0,10128,40.78473,-73.94939,petstore
+40,swJrw6ffk0456Qv9no0Hkg,Puppy Paws,55,2.0,11417,40.6807098,-73.8440933,petstore
+41,SU9o7rtGirFSf-u_j2U-9Q,Vinny's Pet Shop,57,5.0,11220,40.634151,-74.021949,petstore
 42,qw1Y3mJmGfDRqr_IChLI4w,Unleashed,50,4.0,11217,40.674788,-73.9752,petstore
-43,7qbKTp_OTSSEvts--YcrCg,My Best Friend Too,51,5.0,11374,40.7270636334831,-73.8563203811646,groomer
-44,2vn7uXrkryhhR5i_PV-I2w,Petopia,19,3.0,10026,40.803596182319524,-73.95385291334966,petstore
-45,35iSDTTibWGlbnADaNafVg,Puptown,19,2.5,10065,40.763396,-73.967563,petstore
-46,0f10uxF5VBk7Ae9EU7zw7A,Pet Central,7,4.5,10010,40.74739,-74.0009,petstore
-47,8Z4GkUtgxSgpMox30kHN6g,Pet Central,15,4.5,10001,40.745015,-73.99092,petstore
-48,eywiaoMKTc8JzM-oB0sKvw,Unleashed,38,3.5,11365,40.74063761596114,-73.784237,petstore
-49,Z7JyZLsIQ8kJRK-N6vfMZw,Pet Central,18,3.5,10016,40.7473182,-73.9744042,petstore
-0,jXUi-DoJq-tNcuHNxO-aIg,Dees Pet Food,14,4.5,11238,40.6755593,-73.959837,petstore
-1,NE1fg0zBn_b3yeawjA5Vag,Little Creatures,30,3.5,10024,40.787606866576,-73.97126383116662,petstore
-2,gHoyToejl4iKs0i-36WONQ,Weehawken Pet Shop,10,4.5,07086,40.7753299,-74.0195899,petstore
-3,Df_NCn9u8yvttmMLwa-Wqg,The Barking Zoo,19,4.5,10011,40.7449685,-74.0022442,petstore
-4,W6TsDZ5GetZjnVVa1Xl1Sg,PetSmart,50,2.5,10010,40.7425188458951,-73.989362222365,petstore
-5,Ak77gl6rj4xTRJInn8ms-w,Kissena Aquarium,13,4.0,11355,40.749797,-73.818633,aquariumservices
-6,ZZspmSUwRgPiFAlfijvTCQ,Pamper Ur Pets,13,4.5,10013,40.717837,-74.007084,petstore
-7,5FVL8RyBu7iYurjQ9vYITw,PetSmart,132,3.0,11201,40.6890732,-73.990956,petstore
-8,Nm1KriajvMx3PSHZMrliig,Pet Island II,15,4.5,10002,40.71645,-73.98891,petstore
-9,fVTneUCf9qIA17tgi34pOQ,Citipups Chelsea,158,3.0,10011,40.7423739,-74.0003306,petstore
-10,ooaKNz-zXjatWXPAp2nHEw,John's Puppy,3,5.0,11358,40.75758,-73.80465,petstore
-11,Kuywn5IhWL3cSZ9RbICcJg,Dog Island City,57,4.5,11101,40.7499836792289,-73.943583382838,pet_sitting
-12,8c7fEj3WRTgowXgqyzKtug,Happy Feet Pet Shop II,23,4.0,10016,40.74602,-73.97522,petstore
-13,dlYdp1GS2JYYSt5pRbtBJQ,Petco,296,2.5,10003,40.7372,-73.9903,petstore
-14,Q5RAOHkhxGf-IVaUp0us0Q,PetSmart,41,3.0,11236,40.644671,-73.913907,groomer
-15,B-Bl5yNcDk5YAs3qNiMkFQ,NYC Pet,34,3.5,11215,40.6759867,-73.9807441,petstore
-16,4mZ0frsN_0FLDn6Vz03e1Q,DOG & CO.,25,4.0,10019,40.7676892,-73.9820965,petstore
-17,BQLBkiMAZJrx6poxchq-rg,Master Pups,39,4.5,11355,40.7540232,-73.8225417,groomer
-18,1QJXPhB5STWwrED8s-nP4A,Happy Dogs Southside,69,5.0,11211,40.711188,-73.9594916,pet_sitting
-19,Zl-kqoMQsgNtUvajHiynTw,Pet Delight,52,4.5,11226,40.6618014,-74.0005371,petstore
-20,K2eTaZlWpNjsRKyzA3eMKA,Beastly Bite,30,3.0,11201,40.688896,-73.992492,petstore
+43,2vn7uXrkryhhR5i_PV-I2w,Petopia,19,3.0,10026,40.803596182319524,-73.95385291334966,petstore
+44,35iSDTTibWGlbnADaNafVg,Puptown,19,2.5,10065,40.763396,-73.967563,petstore
+45,0f10uxF5VBk7Ae9EU7zw7A,Pet Central,7,4.5,10010,40.74739,-74.0009,petstore
+46,8Z4GkUtgxSgpMox30kHN6g,Pet Central,15,4.5,10001,40.745015,-73.99092,petstore
+47,Z7JyZLsIQ8kJRK-N6vfMZw,Pet Central,18,3.5,10016,40.7473182,-73.9744042,petstore
+48,jXUi-DoJq-tNcuHNxO-aIg,Dees Pet Food,14,4.5,11238,40.6755593,-73.959837,petstore
+49,Ak77gl6rj4xTRJInn8ms-w,Kissena Aquarium,13,4.0,11355,40.749797,-73.818633,aquariumservices
+0,NE1fg0zBn_b3yeawjA5Vag,Little Creatures,30,3.5,10024,40.787606866576,-73.97126383116662,petstore
+1,gHoyToejl4iKs0i-36WONQ,Weehawken Pet Shop,10,4.5,07086,40.7753299,-74.0195899,petstore
+2,Df_NCn9u8yvttmMLwa-Wqg,The Barking Zoo,19,4.5,10011,40.7449685,-74.0022442,petstore
+3,W6TsDZ5GetZjnVVa1Xl1Sg,PetSmart,50,2.5,10010,40.7425188458951,-73.989362222365,petstore
+4,7qbKTp_OTSSEvts--YcrCg,My Best Friend Too,51,5.0,11374,40.7270636334831,-73.8563203811646,groomer
+5,ZZspmSUwRgPiFAlfijvTCQ,Pamper Ur Pets,13,4.5,10013,40.717837,-74.007084,petstore
+6,5FVL8RyBu7iYurjQ9vYITw,PetSmart,132,3.0,11201,40.6890732,-73.990956,petstore
+7,eywiaoMKTc8JzM-oB0sKvw,Unleashed,38,3.5,11365,40.74063761596114,-73.784237,petstore
+8,fVTneUCf9qIA17tgi34pOQ,Citipups Chelsea,158,3.0,10011,40.7423739,-74.0003306,petstore
+9,Nm1KriajvMx3PSHZMrliig,Pet Island II,15,4.5,10002,40.71645,-73.98891,petstore
+10,8c7fEj3WRTgowXgqyzKtug,Happy Feet Pet Shop II,23,4.0,10016,40.74602,-73.97522,petstore
+11,dlYdp1GS2JYYSt5pRbtBJQ,Petco,296,2.5,10003,40.7372,-73.9903,petstore
+12,Q5RAOHkhxGf-IVaUp0us0Q,PetSmart,41,3.0,11236,40.644671,-73.913907,groomer
+13,B-Bl5yNcDk5YAs3qNiMkFQ,NYC Pet,34,3.5,11215,40.6759867,-73.9807441,petstore
+14,4mZ0frsN_0FLDn6Vz03e1Q,DOG & CO.,25,4.0,10019,40.7676892,-73.9820965,petstore
+15,ooaKNz-zXjatWXPAp2nHEw,John's Puppy,3,5.0,11358,40.75758,-73.80465,petstore
+16,1QJXPhB5STWwrED8s-nP4A,Happy Dogs Southside,69,5.0,11211,40.711188,-73.9594916,pet_sitting
+17,Zl-kqoMQsgNtUvajHiynTw,Pet Delight,52,4.5,11226,40.6618014,-74.0005371,petstore
+18,K2eTaZlWpNjsRKyzA3eMKA,Beastly Bite,30,3.0,11201,40.688896,-73.992492,petstore
+19,Kuywn5IhWL3cSZ9RbICcJg,Dog Island City,57,4.5,11101,40.7499836792289,-73.943583382838,pet_sitting
+20,CFo1R6v0duXgdMiLBiQbnw,American Kennels,140,2.5,10065,40.7639786,-73.967045,petstore
 21,3r40y5hGN9wpxKRkNd9V9A,The Seaport Paw,96,4.5,10038,40.7074799,-74.00163,groomer
-22,CFo1R6v0duXgdMiLBiQbnw,American Kennels,140,2.5,10065,40.7639786,-73.967045,petstore
-23,AdqE_BhJhls8HNP4g7KAGA,Parkside Pets,1,4.0,11415,40.70948,-73.83019,petstore
-24,uBoaVbgLCPTwa2ab5890JA,Pet Central,8,3.5,10128,40.7841428299048,-73.9523330703378,petservices
-25,5m6FfSFE7bL3Z8xqEYzBdw,Pet Supplies Plus,19,4.0,11030,40.790716,-73.7021102572535,petstore
-26,ow-ybOe2YytYs2GrEtJqEw,Keith's Pet Necessities,15,4.5,11216,40.6853378,-73.954476,groomer
-27,FgBCqGWvpGQUWV1EKUq0HA,Petco,114,3.0,10028,40.7796,-73.9555,petstore
-28,7XEDcKrGaCAjfrz3EraZ2w,Korean K9 Rescue,130,4.0,11101,40.75036,-73.94478,animalshelters
-29,HrYheSxz_KBOMoygPBg-3A,Venus & Dalila Pet Spa,38,4.0,11372,40.750416,-73.876334,groomer
-30,XZnv6df1nek6K5m2oAx_GQ,The Left Paw,41,3.5,11040,40.73186,-73.68983,petstore
-31,4xKVPE17lnT6EWI2s-0fmw,Nature's Reef & Reptile,14,4.5,11418,40.70113,-73.82602,localfishstores
-32,fSPlNIIs40d7Hdmht6-tAw,Pet Market,14,3.0,10023,40.778884,-73.983046,petstore
-33,ApondxUPthhlZMY5iVxnnw,Pet Central,12,4.0,10011,40.738693,-73.995323,petstore
-34,Va8qNyu3CzEiioOc5PTs3g,Rocco and Jezebel For Pets,80,4.0,11201,40.6980881094933,-73.9924103021622,petstore
-35,esLb_xHNGCzKbxUiEsaT3w,The Pet Market,29,3.0,10025,40.80348,-73.96753,petstore
-36,pXFXPsSYdQnt4MZXCy9UrA,Little Creatures,10,4.0,10024,40.787199139595,-73.9753011614084,petstore
-37,D8uxiM0XpKBiZX5SWZVO2w,Pets Boutique,24,4.5,11030,40.79671,-73.6987,groomer
-38,OqqQQsdFIIzvfQmvuzW9CQ,Pet Market NYC,35,3.0,10019,40.7674233,-73.9849088,petstore
-39,TW8P7ZeLbGubXBoM7Fm6-A,Paws And The City,22,4.5,11216,40.6729634116029,-73.951533883606,groomer
-40,WmNgk3AyPmiFdY4gauJKvg,Pet Boutique and Supplies,9,4.5,11215,40.6645393,-73.9904709,petstore
+22,BQLBkiMAZJrx6poxchq-rg,Master Pups,39,4.5,11355,40.7540232,-73.8225417,groomer
+23,5m6FfSFE7bL3Z8xqEYzBdw,Pet Supplies Plus,19,4.0,11030,40.790716,-73.7021102572535,petstore
+24,7XEDcKrGaCAjfrz3EraZ2w,Korean K9 Rescue,130,4.0,11101,40.75036,-73.94478,animalshelters
+25,ow-ybOe2YytYs2GrEtJqEw,Keith's Pet Necessities,15,4.5,11216,40.6853378,-73.954476,groomer
+26,FgBCqGWvpGQUWV1EKUq0HA,Petco,114,3.0,10028,40.7796,-73.9555,petstore
+27,AdqE_BhJhls8HNP4g7KAGA,Parkside Pets,1,4.0,11415,40.70948,-73.83019,petstore
+28,uBoaVbgLCPTwa2ab5890JA,Pet Central,8,3.5,10128,40.7841428299048,-73.9523330703378,petservices
+29,XZnv6df1nek6K5m2oAx_GQ,The Left Paw,41,3.5,11040,40.73186,-73.68983,petstore
+30,fSPlNIIs40d7Hdmht6-tAw,Pet Market,14,3.0,10023,40.778884,-73.983046,petstore
+31,ApondxUPthhlZMY5iVxnnw,Pet Central,12,4.0,10011,40.738693,-73.995323,petstore
+32,Va8qNyu3CzEiioOc5PTs3g,Rocco and Jezebel For Pets,80,4.0,11201,40.6980881094933,-73.9924103021622,petstore
+33,TW8P7ZeLbGubXBoM7Fm6-A,Paws And The City,22,4.5,11216,40.6729634116029,-73.951533883606,groomer
+34,esLb_xHNGCzKbxUiEsaT3w,The Pet Market,29,3.0,10025,40.80348,-73.96753,petstore
+35,pXFXPsSYdQnt4MZXCy9UrA,Little Creatures,10,4.0,10024,40.787199139595,-73.9753011614084,petstore
+36,D8uxiM0XpKBiZX5SWZVO2w,Pets Boutique,24,4.5,11030,40.79671,-73.6987,groomer
+37,OqqQQsdFIIzvfQmvuzW9CQ,Pet Market NYC,35,3.0,10019,40.7674233,-73.9849088,petstore
+38,WmNgk3AyPmiFdY4gauJKvg,Pet Boutique and Supplies,9,4.5,11215,40.6645393,-73.9904709,petstore
+39,HrYheSxz_KBOMoygPBg-3A,Venus & Dalila Pet Spa,38,4.0,11372,40.750416,-73.876334,groomer
+40,4xKVPE17lnT6EWI2s-0fmw,Nature's Reef & Reptile,14,4.5,11418,40.70113,-73.82602,localfishstores
 41,_YhYGTGF_MsxyWjBIvcs0g,Pet Necessities,13,3.5,10021,40.7708625793457,-73.9577865600586,petstore
-42,hyMCKl-mNS9OQ2ITaALD2w,Doggy Style,74,3.5,10003,40.732493,-73.994189,petstore
+42,hyMCKl-mNS9OQ2ITaALD2w,Doggy Style,75,3.5,10003,40.732493,-73.994189,petstore
 43,RijMd-1RQjEFTwJanUKMYw,Furry Fiends,45,5.0,10034,40.8681692369712,-73.9215837551476,petstore
 44,TLd-tzgjpyJ_Kq6_9OYrbA,Canis Minor Gramercy Park,32,3.5,10003,40.7367606,-73.9848522,petstore
-45,t6GlwcJqGFS4nK5mtp6xqg,Annella's Trails and Tails,67,5.0,11372,40.7493186390063,-73.88909284048835,dogwalkers
-46,6j0xct-9a0jTRu5xXmAORg,Hell's Kitchen Pet,3,3.5,10036,40.7622451,-73.9953926,petstore
-47,Twj04F1i8WB8V61lYOK0fQ,Citipups Village,113,2.5,10014,40.7338499,-74.00181,petstore
-48,UR41hufVO6BWxzxJMBvWJg,Slope Pet Food Supplies,9,5.0,11215,40.6609612,-73.9934082,petstore
-49,TrqHGeasH89G4l66AlbSCQ,Dog Days and Cat Nights,83,4.5,11415,40.7068732872001,-73.834127676237,pet_sitting
+45,6j0xct-9a0jTRu5xXmAORg,Hell's Kitchen Pet,3,3.5,10036,40.7622451,-73.9953926,petstore
+46,Twj04F1i8WB8V61lYOK0fQ,Citipups Village,113,2.5,10014,40.7338499,-74.00181,petstore
+47,UR41hufVO6BWxzxJMBvWJg,Slope Pet Food Supplies,9,5.0,11215,40.6609612,-73.9934082,petstore
+48,3czPX5eoVMyhJr0lzuVRnQ,Citibulldogs,15,5.0,11375,40.718106,-73.8448469,petservices
+49,t6GlwcJqGFS4nK5mtp6xqg,Annella's Trails and Tails,67,5.0,11372,40.7493186390063,-73.88909284048835,dogwalkers
+0,U6N-i3oA_liLsfuZAi8EJg,JJ Pet Supplies,2,5.0,11368,40.74804715,-73.8608176,petstore
+1,Vkc-yW0PDF6M2_2H_P6BIQ,Broadway Pigeon & Pets Supplies,2,4.0,11207,40.685,-73.91442,petstore
+2,T429i0gfIY67HSgdgVz3tQ,Aqua Star Pet Shop,7,5.0,10002,40.712699,-73.995712,aquariums
+3,TrqHGeasH89G4l66AlbSCQ,Dog Days and Cat Nights,83,4.5,11415,40.7068732872001,-73.834127676237,pet_sitting
+4,Mxnu0K9SUf1NsxilpGBFPw,Pamper Ur Pets,14,4.5,10011,40.7405177,-73.9996949,petstore
+5,5QlPWewMjQb0Y6YgqTwstw,Happy Feet Pet Shop III,29,3.5,10065,40.76183,-73.95999,petstore
+6,sW7uy7GuGPjoZxh5HISovA,Greenland Pet Shop,15,4.5,10023,40.772972,-73.989675,petstore
+7,7AkBiyEBr3tVgD5-bSFEWw,Pet Boutique & Supply,23,3.5,11215,40.673088,-73.983364,petstore
+8,2apQeYlb0I_NZjJ2nvIxkA,Petland Discounts,1,4.0,11212,40.66977,-73.911,petstore
+9,ETai16dKCdwZhA5GD2Nbqg,Court Street Pet Food,11,3.5,11231,40.68156,-73.99644,petstore
+10,yI7EDJ4wcOy-WlsxA4A7Vg,Songbird Supplies,7,3.0,11418,40.693252275922,-73.8329491798192,petservices
+11,SK03eaDyFaDH7sgrC5GqKw,Petco,88,2.0,10025,40.7921,-73.9738,petstore
+12,Rup3heMuIDoSNTyXNb2vSA,Pets on Broadway NYC,30,4.0,10031,40.82885,-73.94906,groomer
+13,RfjuEXxsRwpXVgF-DTcIlg,Pup Slope,58,2.5,11217,40.68028,-73.9743,petstore
+14,V751-Z2weiOSTAjG2iQK7A,Wooftown,10,4.0,10014,40.7335,-74.00409,petstore
+15,97NZXUI8nmEeuVK3evMY-g,Pet Supplies Plus -Valley Stream,16,4.5,11580,40.667906,-73.705061,petstore
+16,_nyqQb97adv_XDKyKVXJgw,The Hamilton Dog House,16,5.0,11218,40.6482449027632,-73.9781715003645,petstore
+17,2C_EFZi-Wuw1C17dPhucIw,Hound About Town,18,5.0,07302,40.7278292917147,-74.0439735872139,petstore
+18,Tr2JV1Uzyzk1Sfc8hT4HTg,Canine Styles - The Original,51,3.0,10065,40.7650999,-73.96627,petstore
+19,MZo5Q0LD4PgWz3RBHPdHUQ,Happy Pets NYC,37,4.5,11375,40.71717,-73.84078,dogwalkers
+20,dmlazzg99NlEN9o3RrjpCg,Pooches Sport & Spa,100,3.5,11109,40.7452804,-73.9572261,dogwalkers
+21,x7FmXcKcb6Q5LpLyYkC92A,Petco,25,3.5,11414,40.662,-73.8407,pet_training
+22,90hV4WqEOgrn_CobDeJU1Q,Whole Pets Market,3,3.0,11216,40.680288,-73.951998,petstore
+23,Mcad-Bdkjpn2tmpEMWeNrQ,PetSmart,50,3.0,07047,40.814125,-74.013507,petstore
+24,1jswwcd2AqciYJePtbhzsg,Mama's and Papa's Pet Shop,23,3.0,11355,40.755256,-73.815544,petstore
+25,6Wj0aZ5aqCBwRDxWAOTpzg,KHC Aquarium,30,5.0,11354,40.7654915,-73.8149872,aquariumservices
+26,5x_irm-QrS7gNLuM8e6CGg,Your Spoiled Pets,129,5.0,11222,40.727285,-73.951478,dogwalkers
+27,x5Ho4XP7VVW0WfBCJFwuxw,Petness World,129,4.5,10033,40.844713,-73.937313,groomer
+28,aAniOOjb_IQ0O1Yq27f0Zg,Pawlencia Pet Services,2,5.0,11372,40.75242,-73.87864,pet_sitting
+29,Y59bgNLLQ1vwf1CV91Q-pw,Crosby Pet Center,24,2.5,10461,40.844879,-73.830505,petstore
+30,AqDt317Vq883ubFd4_2WWg,New York Reef Aquatic,30,4.5,11358,40.7592384375452,-73.8041851271533,aquariumservices
+31,MehL1q_QaO8_KBaxicd6rw,Teacup Puppy USA,4,5.0,10005,40.70493,-74.00749,petstore
+32,Nx_sPQUK380Mu0P77lXTBA,Canine Styles - Westside,42,3.0,10024,40.785107,-73.9790805,groomer
+33,85n8U0glbzZCnSVwLngt3w,Pet Supplies Plus - West Hempstead,19,4.5,11552,40.70572,-73.65596,petstore
+34,aBRQAq_MInWGBUQ4-6x1bQ,Frank's Perfect Paws,105,4.5,11201,40.69246,-73.99143,groomer
+35,bAGMgnI77uJk5tqrVyH9KA,Spock & Elvis,30,4.0,11021,40.78765,-73.72802,groomer
+36,6hpGwA0gQPXhCtILUjOLwg,My Lovely Doggy,6,4.5,11362,40.7669581,-73.7406071,petstore
+37,XqPuPCjTmvJLVwCGPrRRhQ,Paws In Paradise,73,3.5,11215,40.6702224,-73.9856138,groomer
+38,FUNFrflWo_F0sLeUM3bCgQ,Le Pet Spa,57,5.0,10280,40.708706,-74.017457,groomer
+39,t_-7aDzHk7f6OHa5GXUMzA,Pampurr'd Pets,11,4.0,11417,40.67368,-73.84259,petstore
+40,Hr4pKyUKgcoUwTk0xyV18g,City Vet,204,4.0,11101,40.7471194,-73.952961,vet
+41,kCjeZHS6e6K9bZLdjQrATA,Brookdale Pet Center,24,4.5,07003,40.82799,-74.18743,petstore
+42,MFHsmPoYHOf4TEXYrpjnXQ,Pet Paradise,17,2.0,10021,40.769405,-73.952293,petstore
+43,YZVwSduXmUjh16x_EI0QnQ,Westwood Pets Unlimited,18,5.0,07675,40.99117,-74.03234,petstore
+44,mDMtcCRwa9bCa2yQSl2Cuw,US Pets,7,3.5,11354,40.769516,-73.8341751,petstore
+45,XfI1HGspfbNmNDfQacjfZQ,Dog Lyfe LLC Pet Supplies And Grooming Salon,17,2.0,11366,40.72741,-73.78577,petstore
+46,qMz9J2oklyG-6DvDa0PNUA,Animal Haven,158,3.5,10013,40.7188138,-73.9990613,animalshelters
+47,Ba5KJeXL3gWZLqT6Y893BA,Crossbronx Pet Shop,22,3.5,10472,40.8310699,-73.85455,petstore
+48,nN36GsgkZnLQAr0JVI67Dg,Pooch Purrfect,40,4.0,11238,40.6729584,-73.9626694,groomer
+49,f-QzIJ74BlwK6zUyMLMgiA,Le Chien Bleu NY,1,5.0,11201,40.70254,-73.9872,petstore
+0,oqgQm5SS-kR8XQBSreAbRw,Boggie Doggie Pet Supply,29,4.5,11209,40.63199,-74.02728,petstore
+1,QpASvh1PEXJHMVmqRRhI5g,Brooklyn Zoo & Aquarium Pet Store,25,2.0,11234,40.62007,-73.9171099,petstore
+2,7zXxEg2jDOG1EjQErczobA,PetSmart,66,2.5,11581,40.6631997337286,-73.723475933075,petstore
+3,_ffLUeM8b7cphTZObxMDNQ,Petco,33,3.5,11232,40.6555,-74.0075,petstore
+4,U3QZnkA9Ub-rOpWZZVXRWQ,Celltei,3,3.5,11206,40.71175,-73.93781,petstore
+5,WHQljwJlG4cNSxzF7v3lTg,Madagascar Pet Services,20,5.0,11104,40.7435876,-73.9249777,groomer
+6,GbU7vGGNe0IXQi0uCnyDEw,ABC Pet Supply,26,2.5,11215,40.65941,-73.98139,petstore
+7,ZdSA8RgZ4-wxI9FWeRY-7Q,Bargain Bow-Wow,8,5.0,11229,40.5923524,-73.9245792,petstore
+8,e_t3eOaCpc8mAQFJqUWAEw,Raising Rover & Baby,34,2.0,10128,40.7841499,-73.95235,petstore
+9,cvOHUZFCGc2QszLSi5uHfQ,Furry Pawz & Clawz Pet Salon,41,4.0,11225,40.659389,-73.953156,groomer
+10,gyehxB3gOcckAESJVumUuA,Wagwear,21,4.0,10003,40.7329999,-73.9928599,petstore
+11,ywsxTFTtymmJhltWw8tCtg,Petco,23,2.5,11239,40.6518,-73.8692,groomer
+12,iN1gquyPDZRFaSIdcMVrUQ,PetSmart,45,3.0,11040,40.7541855364832,-73.686146,pet_training
+13,zQkRy-U10GAEi1f4LcTNaw,Kiki's Pet Spa & Boutique,66,2.5,11205,40.6896223,-73.9696522,groomer
+14,KZ9OR4YzdhdlTPndcSVZ7Q,Brooklyn Pet Supply,2,5.0,11209,40.62261,-74.02528,petstore
+15,YqmKFtAH_Fys-ePkKyLW_Q,PetSmart,107,2.0,07094,40.792257960351,-74.0481927644886,petstore
+16,JI4J2ONt08zHwwHIVG6i-g,Didi Dog Pet Boutique,1,5.0,11201,40.7029824,-73.9872831,petstore
+17,HSW4iLqHCBNRttXC1IemaQ,Boris & Horton,181,4.5,10009,40.7292599,-73.98138,coffee
+18,yDvA1DPijKvJ1P81u2CNxw,Pacific Aquarium & Plant,155,4.5,10002,40.71978,-73.99148,petstore
+19,XyR4ij7MARCFxLqbfkl3Gg,Franklin Pet Center,7,3.5,11010,40.7022880694842,-73.6797297594876,petstore
+20,i-A0A9j_dyooWN6k5e2DwA,Animal Pantry,18,4.5,11228,40.61912,-74.02197,petstore
+21,9M_Cr9b0Bo9ToWuglDO2Bg,New York Dog,1,5.0,10001,40.7450065612793,-73.9932327270508,petstore
+22,ubQDWFeH57HWO7XhuYv3wA,The Dog Store,27,3.0,10065,40.76284,-73.96624,groomer
+23,LBy1GDlO35f9uq9t_zEFRQ,Luxury Kittens Scottish Fold,30,4.5,11235,40.5880283,-73.9470678,petstore
+24,AIyBWADnQ6BQIFyduzZoAg,My Natural Pet,9,5.0,11209,40.623287,-74.025473,petstore
+25,NvdVBpouCopYscIA-CIRpg,Whitestone Doghouse,69,4.5,11357,40.7875903281752,-73.8133164698365,groomer
+26,UJO3x3Bzcbpo1ZWTYpQghw,Pet Supplies Plus - Oceanside,27,4.0,11572,40.621428,-73.64107,petstore
+27,ULGKVg2RdYWkk6jT58G1zg,pupculture,99,4.5,10013,40.7237453,-74.0039722,pet_sitting
+28,8ldtgnAQhTHETjmYJe_w2w,Woofbowl,20,5.0,11201,40.6986772,-73.9859414,foodtrucks
+29,rXtdXPS2idqmRhAXh4HlDw,Treat Your Pet Inc,13,5.0,11558,40.6022279281785,-73.6520598792068,petstore
+30,p0ytk3-4vtgKgn8qgz-1ZA,Petco,44,4.0,11234,40.6142,-73.9263,petstore
+31,tSUgy0QtJ3gXEy1BNXO6EA,Puppy Paradise,90,2.5,11234,40.618904,-73.933273,petstore
+32,hsXlit4xHjHyJ78JFjVLvQ,Pawstry,4,5.0,11354,40.7642364501953,-73.82958984375,petstore
+33,u6--3Be_vyJ13oF3veTKWA,Bobby & Paws Pet Studio,22,5.0,11361,40.7597317,-73.7748798,groomer
+34,ARNDSEcY1ZYzgvlNh2hglg,Central Park Puppies,39,4.0,10704,40.9230062810967,-73.8597134539673,petstore
+35,tIOBqjR4ASih1wqvHvu2og,Hey Pets -American Pet grooming,11,3.0,11354,40.75626,-73.83514,pet_training
+36,1k7w8SIcbAKbQv9miIepyg,Barklyn Organics,2,5.0,10023,40.7174404633738,-74.0037966853639,petstore
+37,wOcmiJaW-1vhPmt-4kJ6Pw,Cafe Bark,58,4.5,10033,40.8513550757183,-73.9398384015253,cafes
+38,vetsd71PK2xRUygaT21kzw,E & N Pet Paradise Shop,10,4.0,10467,40.87936,-73.8745299,petstore
+39,yGmLLccHX-OwAbuCoIVcDA,Head to Tail,94,4.0,07010,40.819526,-73.988708,petstore
+40,yXLpub-e0HW_bJ0rcL2ysA,Furry Rascals,8,4.0,10032,40.8350418,-73.9448021,petstore
+41,3gsieS7hRgmuuYaJzZwNHA,Manhattan Puppies & Kittens,108,2.0,10024,40.78705,-73.97199,groomer
+42,LI2infC0kSHDRYAgMCu1wg,Brooklyn Animal Resource Coalition,78,4.0,11211,40.716012,-73.96371,animalshelters
+43,S9v_LIzp1r-LLPvkqXFRrw,Mr Paw,20,4.5,11373,40.7423590786512,-73.8785099610686,groomer
+44,uZWpzetK8ba6-gXWObuBUw,On All Fours Cat Sitting,32,3.5,11374,40.726177,-73.857986,pet_sitting
+45,QelIWeE3cj5RnpFX91LCOg,Mutts & Butts,27,4.0,11566,40.6572699,-73.54733,petstore
+46,-rTo0JEQWW4exFo72rIngA,Furry Paws Incorporated,3,4.5,10021,40.76858,-73.95522,petservices
+47,ICJnRbsa5LIVzw0Wsz4_jg,Pawfect Pals NYC,6,5.0,11101,40.743967702708,-73.9534903582886,dogwalkers
+48,Z1SO7_EzBa8IhYg8zN4J7Q,Canine Styles - Uptown,24,2.0,10028,40.77637,-73.95757,groomer
+49,IfCpQLjwHk12G52RvuRVnA,Pets Warehouse,52,3.0,11514,40.7505469766081,-73.6146095228347,petstore
+0,UrqPPSfYM2I6QRdylvdYkg,Purrfect Pets,6,3.5,11691,40.603929,-73.7521137,petstore
+1,Mei6Geqs5aij4xM6cemmQQ,Puppy City,61,2.0,11229,40.59972,-73.9512711,petstore
+2,u44W_VE4ZeqWzoagWS4BPQ,The Canine Corner,32,4.5,11231,40.683753,-73.994911,pet_sitting
+3,L0fK5IE6YD3i9caTqQhOSA,Rapawzel Dog Grooming & Day Care,90,4.5,11106,40.762925,-73.926573,groomer
+4,ymDk_qHjn-6tOcmi-eVHrw,Wespaw Pets Pharmacy,128,5.0,11105,40.7718531,-73.9089091,vet
+5,V3ov7lVBExAEopqb-GsT4w,Releash NYC,42,4.0,10069,40.777092,-73.9888229,pet_sitting
+6,GBJMc9IwVdCoBvCze8PHKw,Animal Care Centers of NYC,97,3.5,11208,40.6641117,-73.876925,animalshelters
+7,v4lCZk2gPh3cS0vN3En5tQ,Steinway Court Veterinarian,150,4.0,11103,40.7578877014967,-73.9195775985718,vet
+8,rfWaici26ZkHH6uNGMBpBA,Pets on Broadway NYC,3,3.5,10032,40.844127,-73.93877,petstore
+9,zxfsP8mXh_3ojmIzb9mtdA,Parrots of the World,81,3.5,11570,40.65686,-73.64255,reptileshops
+10,wTsRnNCAjE9CR592XW5iXg,Shake A Paw,142,2.0,11563,40.6569504,-73.6717167,petstore
+11,qP5gw5evqi0aZ1ynx9QGsg,Best Pet Supplies,2,4.0,11412,40.70473,-73.7751,petstore
+12,hda580yEMbh2owQCmJnimA,Puppy Boutique,220,2.5,11214,40.612037,-74.001691,petstore
+13,Or4DP9XQxuDYvbAm5legKQ,Unleashed,8,5.0,11507,40.7712517,-73.6486435,petstore
+14,U2tddd4SuXoKEwxPsObFGQ,Best Friends Lifesaving Center,33,4.0,10013,40.72159,-74.00427,petadoption
+15,pJhAgDaDFUqLmLjYeesRjw,Natty Pet Shop,2,3.0,11238,40.679946,-73.964447,petstore
+16,e5hhssu4bar8eig6do1Z_g,ProMasterPet Store,1,5.0,11224,40.58154,-73.97592,petstore
+17,j2X1EqmCK-4LN1sfHbhKFA,Central Park Pet Spa,18,5.0,11105,40.7733707,-73.9065261,groomer
+18,DLdbUWm5-a39au0zSSjx3g,Pet Oasis,19,5.0,10306,40.5742492675781,-74.1064224243164,petstore
+19,a77zuxJM9fjEsqSxBikwcA,Pets Best,3,3.5,10173,40.7584878,-73.9748776,petservices
+20,nDI6MkYWRCTxfyLN9dbDOQ,The Pet Party,16,2.0,10001,40.769405,-73.952293,petstore
+21,ahkfFycrUFSQ2sJG9OTjuw,The Reef Shoppe,8,5.0,10462,40.84782,-73.85621,localfishstores
+22,lpCB923jZk91NwBj_iIEHQ,Pet Dog Delight,12,4.0,11232,40.66173,-74.00042,petstore
+23,11M1_1egMtNPH1yXf89ubg,JustFoodForDogs,8,4.5,10003,40.73721,-73.99009,petstore
+24,--7fkzqVKlEMrzr99Wn22w,Dog Planet,29,4.5,11102,40.767665508606306,-73.92352388266676,petboarding
+25,ukocbsD-cpYTQEPLk0o3cw,Towne House Grooming & Pet Supplies,114,4.5,10001,40.7462735,-73.9976155,petstore
+26,vcNfVpdaP21mv4bCTQz4_w,The Neighborhood Vet,133,4.5,11221,40.694119720287,-73.9300697296858,vet
+27,Ggn1x0Sv_YLyP8d8iUUxLA,Bff Petwash,60,4.0,11222,40.7230949401855,-73.9460678100586,groomer
+28,VA-TV2gE3A_HoJ2fh8Wseg,Ruby & Jack's Doggy Shack,65,4.0,10065,40.761379,-73.963414,groomer
+29,_Nc-PhQJ5LS4XFWinIamZQ,Skillman Animal Clinic,44,3.5,11104,40.74636,-73.91853,vet
+30,Fb6AnxiIN3p537KSttE8zw,Anchor Aquarium Service Inc.,8,5.0,11206,40.699227,-73.937242,aquariums
+31,20s9bDD0z3zaI6rSmVWFCQ,Walter's Pet Styles,138,4.5,10016,40.745,-73.9782199,groomer
+32,fg_E76KIQ--bcGuZZnBGBQ,Wiggly Pups,74,4.5,10010,40.73821,-73.9843099,dogwalkers
+33,Anks1VMrU15poxqpxHcOrg,Lickers n Sniffers,39,4.5,11231,40.6802027337342,-73.9893851056695,groomer
+34,f-KOS-ll8sNNWFD408b5vQ,Little L Bakery,4,5.0,11201,40.68842,-73.98823,petstore
+35,qH3jMRIqvSS6wY5yFVM3VQ,BarkBox,18,1.5,10013,40.717899,-73.999291,petservices
+36,1I-s35BCVILQCeb5MYuD1A,Funny Pets NYC,9,4.0,10075,40.7716,-73.94908,dogwalkers
+37,DKXBM-IM9jePdHxJ48KtMg,L&B Healthy Pet Markets,13,4.5,07042,40.8134184712505,-74.2177430181024,petstore
+38,2KvflRdgllNtfRCqqzBiyQ,Astoria Grooming Holistic Pets Spa,16,5.0,11105,40.776157,-73.915051,groomer
+39,RB3coXdplvsZDu_6OS70kQ,Love Them And Lead Them Dog Training,12,5.0,11358,40.7627716064453,-73.7965698242188,pet_training
+40,0k-CQo9KOexOSDokAveCkw,Posh Pooch,72,5.0,11377,40.7575876,-73.9077238,groomer
+41,We8u8A9dGABewdxIlQ_8eA,Caribbean Pets,18,2.5,07307,40.744956,-74.049621,groomer
+42,Z9BxC_rNqXMSIlxa7BFnvQ,School For The Dogs,89,4.5,10009,40.7266757,-73.9854478,pet_training
+43,edsuEdcOyNaQ6hj_b2xRjg,Bark Place NYC,55,4.5,10021,40.76897,-73.95537,groomer
+44,KgY3QejdWEXu0A7rYpXgIA,Happy Tails Holistic Pet Grooming,61,4.0,11222,40.723527416814626,-73.9408456,groomer
+45,4ExvPmTE1uVJGC6-o_B2_Q,Bideawee,123,4.0,10016,40.74587,-73.971,animalshelters
+46,xm2pJYfkinlJI3fNaRZeVA,The Pet Store Next Door,12,3.5,11545,40.8376960754395,-73.6152954101562,groomer
+47,tHqtc981JQOqWmch-K0VMA,The Pet Salon,15,2.5,11385,40.701171,-73.887268,petstore
+48,XL1OitGYVdWNdaiLghBqgA,Doggy Street Dog Grooming,110,4.5,11358,40.75310899999999,-73.791769,groomer
+49,AFvo_s55AAksAwb0j65keA,Whole Pets Market,2,5.0,10462,40.855832,-73.867895,petstore
+0,DmPPI7Hn2FacRC-LN6eCFg,Silver Nickel Puppies,18,3.5,07631,40.8944816589355,-73.9793243408203,petstore
+1,ktOHjA0yLJBPShMOd2DTKQ,Petco,18,3.0,11557,40.639264,-73.700988,petstore
+2,Vn7GNLLVhiRL1egUmO9WoA,Pet Lovers USA,5,4.0,11501,40.748905,-73.642658,petstore
+3,36PSRUDHIMwfhFdzdYKQZw,My Dog Needs A Walk,27,5.0,11105,40.7724204666225,-73.9150855381592,dogwalkers
+4,WUZU4V49-ljJm1IjvdU2Pg,Sean Casey Animal Rescue,139,4.0,11218,40.6482065480619,-73.9782515396568,animalshelters
+5,0hEEqJwJ7B78p3VkntnV5Q,My loyal Friend,7,5.0,11369,40.7610287,-73.8776473,groomer
+6,M-oXhgShaY_5V1ZB4HqhSQ,On The Go Veterinary Services,26,5.0,11106,40.7619781494141,-73.9279022216797,vet
+7,c-VKuWFVvtfAY8x8cVIthw,Maria's Pet Shop,22,3.5,10462,40.8352712,-73.8629234,groomer
+8,Np_gysRyyyoDuq-ASUJyDA,Bushwick Veterinary Center,43,4.0,11237,40.7050933,-73.9283409,vet
+9,zaGAs2jgZELfLdgZyK9MfQ,"Juniper Valley Animal Hospital, PC",131,4.5,11379,40.7158409,-73.8864349,vet
+10,idO6Eo3ixl9oEoSdGcJmBw,BluePearl - Queens,242,3.0,11375,40.7203945,-73.842923,vet
+11,0o8T4A1R0mZTQlqEp5KHhA,Pet Foods Plus,10,4.0,11223,40.604518,-73.971343,petstore
+12,6ggCrsAdY3WKCT9UHWqPNw,Brooklyn Bliss & The Terpene Lab Brooklyn,1,5.0,11222,40.7346619,-73.9547344,jewelry
+13,JtftWj_LoMzSQJlUlM5CwQ,Tails of New York,2,5.0,11211,40.71051,-73.9565,dogwalkers
+14,3JdKOTmm0WcQd_cg9Hs_qg,Puppy Park,6,4.0,11518,40.6416697,-73.666462,petstore
+15,gj2s3OXxFGFiyAThE-w6jg,Calm Energy Dog Training,52,5.0,11201,40.6806380252146,-73.9791870117188,pet_training
+16,ia2DSrqlbjrrdhPUjn8qAg,Abandoned Angels Cocker Spaniel Rescue,16,4.0,11354,40.768318,-73.826269,animalshelters
+17,tDStDOKZLWQ7cEdgaboUSw,ASPCA Adoption Center,233,4.5,10128,40.7800598144531,-73.9456787109375,animalshelters
+18,-sSF_Tskr1J4ssjHqfhtiA,Waggers Pet Care,101,4.0,11361,40.7616856,-73.7698642,groomer
+19,MlE0xQhNLV8SU7B8Fc4aBg,All City Pet Cremation,37,4.5,11416,40.6859139234225,-73.8403642343933,petcremation
+20,ITLYYsW5GNviHQEs8p02RQ,Pet Supplies Plus - Oakland,13,4.5,07436,41.023953,-74.240555,petstore
+21,P8pQOUYaeyb-F7Os5OMMNg,Animal General,91,4.5,07020,40.818757,-73.978266,vet
+22,g4BDmmbGzNIfz1SmjEEfsQ,National Pet Supply,9,5.0,10470,40.897945,-73.866973,groomer
+23,cIiNYJE62E2OjHN7HySiWA,Animal Kingdom - East Orange,20,3.5,07018,40.76403,-74.21417,petstore
+24,Ajkq0PyVNykMWLwjlilEkQ,Paws and Suds,27,4.5,07087,40.7561261,-74.042753,groomer
+25,Nlen0F7vnZGsEFLb4z579Q,Petland Discounts,16,2.5,10463,40.8777743,-73.9052395,petstore
+26,3ASPhXu34sIZ8ZWbli8CUw,Williamsburg Veterinary Clinic,72,4.0,11249,40.7184375738014,-73.9635835375732,vet
+27,85KZKH52wVHda8i4_BPNAQ,Dr Pet MD,53,3.5,11103,40.76625,-73.91272,vet
+28,tNvnKma6P_0QJ9JkWeohgQ,Happy Dogs at Stuyvesant Town,70,5.0,10010,40.737372,-73.9784936,pet_sitting
+29,5MBY3qtGffX87TCJEQ9QkQ,Throgsneck pet,2,1.0,10465,40.824722,-73.820606,petstore
+30,QGhKXdLRw5vuhsNGgXwbfQ,Bobbi and the Strays,55,3.0,11385,40.7094466705014,-73.8683182521149,animalshelters
+31,zfh1Cw1I1JnZrJv5JpsYSw,In Our Hands Rescue,135,3.5,10003,40.7734758752788,-73.9577989124756,animalshelters
+32,qzPhx5T5lOadqAO7TGe_NQ,Petco,22,3.5,11010,40.68958000844916,-73.6858,pet_training
+33,UQdvTTVFrxvpuK5MhwU7IA,NJ Exotic Pets,81,3.0,07644,40.877246,-74.083618,petstore
+34,Qsw6vgQ5x7AVD7iOzF2Kvw,Pet Resources,5,2.0,10455,40.8191986083984,-73.9024887084961,petstore
+35,n4ictN34WH-BlPtCWQGcEw,Happy Dogs at McCarren Park,125,4.0,11211,40.719208,-73.952957,pet_sitting
+36,-sx7yYDm9uc0ypw8J4nE2g,Pure Paws Veterinary Care of Clinton Hill,312,4.0,11238,40.6824733,-73.9630804,vet
+37,dolcuUz5WhbipGHeoml5xQ,Donna's Pet Depot,27,4.5,07647,41.01458,-73.94698,petadoption
+38,X5-Sc8sYBh1DvsxkbpAIwQ,QQ Pets Grooming,66,4.5,10025,40.80106,-73.96486,groomer
+39,HkFD5mUGXA4Hxa_ifQqqIA,Ditmas Paws,27,5.0,11226,40.640766682212586,-73.955524,dogwalkers
+40,gu44Fm21ZJavjmayjiXx1A,Petco,39,2.5,10463,40.88456662161541,-73.90026753955166,pet_training
+41,hi0Uamkuz428-9IHsnl9vw,Animal Clinic of Canarsie,15,4.5,11236,40.64485,-73.90296,vet
+42,aA9WTXErNXuFcTAfGC1gKw,Variety Pet Meds,3,3.5,11434,40.6727097,-73.7708467,petstore
+43,O6Dc12-M1t_KE89dht3w8g,PetSmart,47,2.5,10803,40.89301,-73.817756,groomer
+44,3fXOHB9WY30lqnmxilO3Kw,Petland,1,2.0,10002,40.7148108471483,-73.9862847227539,petstore
+45,23mRF81Cw6VofmJZVTg5jg,Kalvig & Shorter Veterinary Associates,69,4.0,10016,40.7494426,-73.9769976,vet
+46,trs1VLUrZ6avAoymee2bXg,Meow Parlour,244,4.0,10002,40.71556,-73.990287,animalshelters
+47,QDEr9AcmVErT80aGai440w,The Dog Institute of Williamsburg,48,5.0,11211,40.7150306293359,-73.9564790157139,pet_training
+48,msXPKLY6P0POvKkhIl42Fg,Palisades Pups,47,4.0,07307,40.74189,-74.0518699,groomer
+49,U038hatVJDBVSodmNrwaPg,My Two Dogs,60,4.5,11206,40.7058242,-73.9435406,pet_training
+0,B425xN-EwtduwRtkdDfXbQ,"Downtown Doghouse, Gramercy",15,5.0,10010,40.740585,-73.980843,groomer
+1,esqSFQIGxxPjnIYlWusd8Q,Buddy's Dog Den,50,4.5,11211,40.717707814413,-73.9451439828034,pet_sitting
+2,-3UoPE2HeDrR50_kxAB4mg,Dogs Cats & Co,31,4.0,10028,40.77592,-73.95535,pet_sitting
+3,v_woebX-zf3NWo-44nn2vQ,Vinegar Hill Veterinary Group,110,4.5,11201,40.702661,-73.991418,vet
+4,SwOC0MdwUyJz9PDgvTmMkA,Heights Animal Hospital,63,4.0,11372,40.75047,-73.89483,vet
+5,hlohigdZpuUwijLmsYmdDQ,Brooklyn Cat Cafe,109,3.5,11201,40.69523,-73.99638,petadoption
+6,SZOldWHPy9XXT_bMz0Q-oQ,Park Avenue Pet Center,11,3.5,07070,40.82772,-74.10255,petstore
+7,iyb2BC6PHJX7B3rU36yZeg,Prospect Heights Animal Hospital,152,4.5,11217,40.6794662475586,-73.9737854003906,vet
+8,gbHYYQ-kkgHGx9w_oD5csA,KittyKind,181,3.5,10003,40.737236,-73.989807,animalshelters
+9,174-iOpBoHUlOAfawi74QA,Brooklyn Pet Spa,42,4.5,11217,40.67822,-73.97298,groomer
+10,plNdcFP_-dw4uIfNPIcoKQ,Dog Wash N' Go,66,3.5,11233,40.6848106384277,-73.9291687011719,pet_sitting
+11,tuyds3nFcDV1syaI2X08_g,PetSmart,27,4.0,07032,40.757996,-74.16063927269364,pet_training
+12,-H8mkHyo0GFn564-K_Uduw,Reme's Oggi Pets,31,4.0,10022,40.75698,-73.96412,groomer
+13,xU0syR4mMx78aPEUqwx7NQ,PetSmart,16,4.0,07071,40.8125001236645,-74.1176758334041,pet_training
+14,idIHm_CU1ZkYqGJoYkHrgg,Fancy Doggy,8,3.0,11362,40.76849,-73.73795,groomer
+15,UG-dxMhN5dbviI97Y3U7cg,FishWorld USA,14,3.5,11357,40.7935034,-73.808028,localfishstores
+16,_asSJp8zmzFRPgihVfnGFQ,ASPCA Mobile Spay/Neuter Clinic,100,4.5,11208,40.67661,-73.8726,vet
+17,UhVXK2epLQXwDnnx0dUivA,Ciao Bow Wow,28,4.0,10038,40.70958,-74.00933,pet_sitting
+18,fFSnfMZ8zTkdGLjVEL6pLA,Le Pitou,1,5.0,11375,40.717506,-73.835878,pet_sitting
+19,sbTcsybDHE7S6MS3B25Tcw,Pet Supplies Plus,11,4.5,07642,41.01318,-74.04233,petstore
+20,CbnB-iBK94eUzK5wGUuDsw,Petco,74,2.5,11235,40.5902,-73.9536,petstore
+21,aK2oLf4W-Sr5-pw3Ty6w6A,The Bark Shoppe,144,4.0,10026,40.802393,-73.952256,groomer
+22,5zZfOzoME26OEX2_Ygjixg,Fussy Friends Pet Supply,1,5.0,07307,40.75023,-74.04624,petstore
+23,G8xG-_bDh9ouv9myxHuopg,Pete's Bird Garden,15,5.0,07093,40.79612,-74.0157,petstore
+24,fXhtW2mVIox_pa_tU4N6rA,Pet Fashion & Grooming,19,1.5,10033,40.8504627,-73.9371823,petstore
+25,PEltj5vEs_FljHKBcJNmAw,Petco,12,3.0,98273,40.900501,-73.818483,pet_training
+26,fOULDtqAi31D4Zfr1EVWKg,Roro's Pet Styling,15,4.0,11237,40.701599,-73.922752,groomer
+27,DL7_piadqb6_oEBfQXh5og,Love Thy Beast,3,1.5,10017,40.7520589749105,-73.9759649528877,petstore
+28,Sh_B7WKVo7FkCZOeychekA,A Dog Plays in Brooklyn,5,5.0,11215,40.66779017,-73.99438633,dogwalkers
+29,iJU52c0ubvMAZJjpaXQ-hA,Petisa Spa,23,4.0,11372,40.750991985718,-73.8937640190125,groomer
+30,SYR4DTxf3jZYsk1sUtdGZg,Pet Oasis,18,4.0,10312,40.5603941,-74.1695982,petstore
+31,NpjSEb394GudEuzSdKw9lg,Popcorn Pawz,41,3.0,10463,40.8869132,-73.9068034,petstore
+32,I1Vb5tm8mszcUtuNNWq-KA,Veterinary Care Group - Middle Village,105,4.0,11379,40.7135612,-73.900686,vet
+33,gHP62VzTGyGSoQ6lhJ94Rw,Pampered Paws,78,4.5,11219,40.6210611015558,-73.9984922111034,pet_sitting
+34,0LKSp50un6QC_0Qpjsmwjw,Love My Puppies,27,4.0,11793,40.705793,-73.502552,petstore
+35,-03JOPva3PM4ZRGSfoXvfw,Biscuits & Bath,37,3.0,10016,40.7448021,-73.9785868,groomer
+36,iza_1JasSx1Slr12qALnjQ,NYC Pet Services,72,4.0,11106,40.76385459999961,-73.92365880000008,groomer
+37,x3H-Op51vfyZceVb1dky9A,Abingdon Square Veterinary Clinic,73,4.5,10014,40.734506,-74.000315,vet
+38,m4dIIB2IC9qAwydKOrDYzw,All Creatures Veterinary Hospital,103,4.5,11238,40.67818,-73.96359,vet
+39,3bolp3j-sb-Pggna5BERNA,Petco,44,3.0,10465,40.822498,-73.83690166864778,petstore
+40,8dCRpRf-41ArfOUZt4mBDA,North Hempstead Town Animal Shelter,9,4.5,11050,40.816865,-73.687013,animalshelters
+41,Kx74qcegiW_TM4mq6QcbCw,Central Park Pet Spa,13,4.5,10019,40.76772,-73.98979,groomer
+42,KwyyeJqKgINzSHrFrTVUMw,PetSmart,16,3.0,11542,40.8678856,-73.6310364,pet_training
+43,cR8xJIqIc8g_UGvVXMJU8Q,Sloppy Kisses Dogwalking,3,5.0,11105,40.7783417,-73.9089808,dogwalkers
+44,HO1jnRYt4MSGOGvBBk09hg,Noah's Ark Pet Clinic,65,4.0,11372,40.7501844,-73.8813459,vet
+45,C9Z_gbOEoY9JoQLsbHCdnw,Tropical Pets,15,2.5,10467,40.8727086,-73.8785137,petstore
+46,ldh0OmR8Pw5VWHtpRWPcZw,Tiny Tails,68,4.5,11204,40.6114082,-73.9913864,groomer
+47,6YL3G1DRLgS3URd3WiVLzA,Cuddles N' Kisses Pet Care,12,4.0,10040,40.866009,-73.926976,pet_training
+48,mycNSUdy-2HCtGGRLAxwTw,J & J Pet Shop,1,3.0,10457,40.845351,-73.89045,petstore
+49,66NQraTn2djawhH4pE45hA,Howies Pet Boutique,13,4.5,10028,40.77509,-73.94795,groomer
+0,xfh1JOFLvCz_0qZRnIdfIQ,Sophie & Teddy's Grooming Salon,70,5.0,11379,40.7224772,-73.8740641,groomer
+1,KHWWxv7rdXpyXvOVGhxQOA,Gabby Pets,14,2.5,10458,40.8579118,-73.8992888,petstore
+2,CRKHr2ZSuXlBv2vv7pP-Gg,NYC Breeders,9,3.0,11224,40.580951,-73.984908,petstore
+3,_gGKcVrQd3dKpV36rDOOmQ,The Diamond Collar,38,3.5,11228,40.622348,-74.00489,petstore
+4,OymBRp2iBxbr-nsH3xfpQA,Sunnyside Pet Healthcare Center,62,2.0,11104,40.74231,-73.91766,vet
+5,dx5Nc0NTu3QMtYJPbfZT5A,Brooklyn Animal Action,50,4.0,11215,40.66889,-73.9819,nonprofit
+6,lSZOoKKPtLdyAVHXUEUK3A,Pet Supplies Plus-Wallington,16,4.0,07057,40.844628,-74.1063317,groomer
+7,WcnDVPsfPkZuwq4_b8rnAA,Fashionable Pets,25,3.5,07652,40.946821,-74.068773,petstore
+8,CX9Ciq5qx5tJYyNGq8pJHw,Bark Slope Salon,125,4.5,11217,40.67575,-73.97433,groomer
+9,LGGxmnNEbRV1NWYSAx6BSw,dozo dog,62,4.5,11102,40.76935,-73.91928,groomer
+10,NDInHQCbCQLDVTMcI1jbgQ,The Pawlour,152,4.5,11215,40.6594802216431,-73.9915154775238,groomer
+11,t0BdPiZpAPuLkyeRPPV3aw,Happy Go Puppy,25,5.0,11226,40.6475982666016,-73.9584579467773,pet_sitting
+12,YqXLkMWtITkNakv2n_jqGw,Mt Vernon Animal Shelter,8,5.0,10550,40.899577,-73.819516,animalshelters
+13,6o5UYOYf7iLvwHP2ThEhqQ,Petland Discounts,1,5.0,11557,40.644915,-73.703523,petstore
+14,PD4mVmj-0JBJEvb836ElLQ,Zen Pets,4,4.5,07079,40.7442255,-74.258335,petservices
+15,DTxm4Q36Jsm6-5nBeYn9aA,Pups 4 Love,30,1.5,11507,40.76988,-73.64877,petstore
+16,9UPnti4zi9F7jGTMCFn3Xg,Petco,43,3.0,07512,40.84155300728682,-73.99727657055226,petstore
+17,EHBPukoMblfnkHbxUGjkQg,Marie's Pet Grooming,77,4.5,11366,40.7268956925013,-73.7879229808464,groomer
+18,_lfpjgiblh8NsC3Cu0X6-A,P.I. Paws,51,4.0,07086,40.7727682,-74.0134086,pet_sitting
+19,HI8UAi13N6bGsQW9jqaa1Q,Petco,28,3.5,11572,40.642804,-73.6402,groomer
+20,hehsCqf-R2_vZL-gCAntNA,Choice Pet,15,4.0,10530,41.026305,-73.793246,petstore
+21,U6Zo0xTxEGN4rchfS3V-bA,Animal Pantry,5,5.0,11735,40.7240064519294,-73.4588500816579,petstore
+22,SiL-mTNbVRibL_Ek8-jdhg,For Birds Only,22,4.0,11501,40.7488009,-73.6425624,petstore
+23,t9u6HIezmwb1R_odYg7YMA,Veterinary Care Group Forest Hills,70,4.0,11375,40.7244558,-73.8493019,vet
+24,GYr8pyjdR-t952-1kYdzyA,Finishing Touches by Stephanie,10,4.0,10021,40.76996,-73.95644,groomer
+25,QP8_BzHhs3v0qkqychlB7Q,Snowball's Pets Grooming Salon,50,4.5,10025,40.79939,-73.96254,groomer
+26,ALP-XSqJ1KsvJNQHbzARpA,Pet Pantry Warehouse,4,5.0,10538,40.92211,-73.76454,petstore
+27,N4Dy-MQJa25iwhSbEijHiQ,Fieldston Pets,5,4.0,10463,40.88248,-73.89909,pet_training
+28,1g7IfLU9sxvQXskZXPZlGw,For Pets Only,2,5.0,11771,40.8702831,-73.5311081,petstore
+29,Kz55uEPt6H9K9sGP-R5CZg,D is for Doggy,53,4.5,10011,40.738151,-73.995826,pet_sitting
+30,9xOnOysAGGGAFFc539jT2g,Bark Avenue Grooming,48,4.5,10024,40.78554,-73.97569,groomer
+31,WpYGx5Mze2I7XtZTNU0Kcw,Biscuits & Bath,17,4.0,10022,40.758938,-73.962455,dogwalkers
+32,yzh8-wZ9JYvqbT4ifPuATA,Whiteway Pet Shop,9,3.0,07201,40.66008,-74.20717,petstore
+33,52vjqx_TMoDGUY7YIbzjYA,Wag Club,41,4.5,11201,40.6931944191456,-73.9996033161879,pet_sitting
+34,oKALG3blIF177bLg4CIvYg,Empty Cages Collective,38,4.0,11211,40.71051,-73.9565,animalshelters
+35,37jdgxC81EfyH7QHJ6ly1w,Alberto's Pet Shop,24,3.5,10034,40.8662882,-73.929616,petstore
+36,3476T6JbQ5n9jKSAA1ZAOA,Tamco Aquarium & Supplies,12,3.5,11204,40.614959,-73.980719,localfishstores
+37,C71RRLMjHNcjmb9GeltgyQ,Just Pawfection,36,4.5,11414,40.6596414,-73.8305428,groomer
+38,xEcYET-y6-q8-VJ-n7TZkA,Petco,36,3.0,11514,40.7434485,-73.613701,pet_training
+39,mUFy3wmTGXAfc3COcZdsFA,The Groomery By Petsmart,41,2.5,10025,40.7907467,-73.9692795,groomer
+40,QOBMVJkb2XmERxOpc3upnA,Spoil My Bitch - Mobile Popup Dog Shop,2,5.0,07302,40.72054,-74.04484,petstore
+41,F-A_I2hB3ZsE2E4aGpSFtw,BeastyFeast,6,4.5,10014,40.734263,-74.0087189,groomer
+42,LB3GRDZ7dyIF4TZf5Zit5w,Petco,35,2.5,11040,40.7412,-73.6626,pet_training
+43,Zf0Q4mEVv2ah6snYCY8wNA,75th & Paws Doggy Daycare,20,4.5,10021,40.770907,-73.957898,pet_sitting
+44,xm2A2H8iFSVdOKcAHRPlDg,k9bros,1,5.0,10001,40.71424,-74.00642,petservices
+45,4qlRliEGLW3pEQnLQLyJYg,Petcare Animal Clinic,128,4.0,11355,40.757149,-73.809918,vet
+46,JsZQpzK7v-DBWWhCtPGd9w,Cookie & Friends,20,4.5,07024,40.8484915315069,-73.9703977480531,groomer
+47,HVOxu7Iq7DX8K4OrXkP98g,Ruff Club,41,4.0,10009,40.723332,-73.985175,pet_sitting
+48,HoN4CUFJjl0qpMHD5spgbg,Halle Pups Bakery,1,5.0,11375,40.71963,-73.84244,petstore
+49,yspQDzHYAr7KN6OmmC8cIA,Social Tees Animal Rescue,131,3.5,10009,40.7275062,-73.9829468,animalshelters
+0,s0MNZxFYAgpyaGF28xtyGQ,Bond Vet - Cobble Hill,102,4.5,11201,40.68664,-73.99368,vet
+1,yBWQHk8DtQc9j71bovTmpQ,Andrea Arden Dog Training,77,4.5,10010,40.7434449,-73.990654,pet_training
+2,6vp2KP71UB9tE_sfeBoJ5Q,Fur the Love of Pets,14,4.5,07649,40.9424588,-74.0295076,groomer
+3,2gawq_t93vsFw9SQ8jcMCg,Wholistic Paws,16,4.5,07450,40.98553,-74.117,petstore
+4,F7-nbKi3TjPa7W103iKPtw,Dog Room Club,23,4.5,10128,40.78546,-73.95145,groomer
+5,cK94it5IhTRwIf9bVbVgCg,Fresh Paws Bath House,69,4.5,11211,40.7172252821228,-73.9518094809857,groomer
+6,0pBg7zzCZQmK0NCXV3Njew,Shake a Paw,162,2.5,11801,40.7626751,-73.5173253,petstore
+7,LiH1BNa5ySljHUP7PgS21Q,Pet Pantry Warehouse,4,4.0,10580,40.9908447265625,-73.6842651367188,petstore
+8,nHmNtcam7ypZ6F_KvhXmjg,Corrado's Pet Market Clifton,16,3.0,07011,40.8892917,-74.1499626,petstore
+9,JqjGsC0iEwEit2Oy7luuKg,Heart of Chelsea Veterinary Group - Chelsea,165,4.0,10011,40.74218,-74.00016,vet
+10,g_8-VZ_4Y5zbqy41_EK6jg,VERG- Veterinary Emergency and Referral Group,479,3.5,11217,40.6783057,-73.9825246,vet
+11,Nuvug45UUSgCSYCTEWfyTw,Paws and Suds 2,21,4.0,07093,40.794353,-74.011848,groomer
+12,AaUbXP7lGuS5JMRm1Z9WfQ,Cuddles and Tails Pet Services,30,4.5,10003,40.7273799,-73.98878,pet_sitting
+13,RHThSL_PLssbDlpYHZMFKw,Paws Country Club,33,4.5,10026,40.802681,-73.95692,groomer
+14,tMtEePS8TU0xmmfeJ7xCHg,PET OASIS II,8,4.5,10314,40.6078196766603,-74.163449944182,petstore
+15,qSQhpFlWa3stY6O7apKEAA,Pawfect Day,51,4.5,10001,40.7458503,-73.9867329,pet_sitting
+16,CJz1ahmOtQnuS6KB-aoIMg,Jordan's Pet Care,94,5.0,11231,40.6772965,-73.9937463,dogwalkers
+17,6-iLSY9wu7DJoK1KN-2tUw,Bond Vet - Upper East Side,90,4.5,10065,40.76319,-73.96507,vet
+18,Zd9nGJoszkdT9kOizXObtw,D is for Doggy,74,4.5,10011,40.742931,-73.995521,groomer
+19,AYhgi6n0kU6puCs2_7uZUg,Boulevard Animal Clinic,41,2.0,11375,40.7180434951002,-73.8354938,vet
+20,wWjQVy_myoznOGwSsn4sYQ,Village House Call Vet,20,4.5,10013,40.7190855,-74.0108824,vet
+21,o3F1kwHeYitPrNFBvtRfGA,My Love Pets and Grooming,5,5.0,07109,40.7895811,-74.1467194,groomer
+22,-yLwZYIi-yA7EgCWL4HFiA,Petco,11,2.5,10469,40.863082,-73.835099,pet_training
+23,1YlJ8V-n7md7t7i_6n1R6A,J-B Pet Supplies - Hawthorne,9,4.5,07506,40.94179,-74.1524727,petstore
+24,0Ltsl0prFDflt4czr0OMLw,Arcadia Pets,22,3.0,10312,40.5454815,-74.1605772,petstore
+25,3z2b20OycuwxOyy9IlZlyw,Best Breeds Puppies and Kittens,8,1.5,10543,40.949739,-73.733591,petadoption
+26,efrU2rMsBzHEWIUUaskp7g,Wayne Puppies,34,3.0,07470,40.959282,-74.237373,petstore
+27,QJsms_FlIFppN9HhKYDvgQ,Kew Gardens Animal Hospital,16,4.0,11415,40.707076,-73.8342496,vet
+28,CxKhqXtQDSmqFyjKEkGUOg,Petco,10,4.0,07044,40.83559948664161,-74.2250056725,petstore
+29,Wyb_fXXLPxzwKq0TahZ7lw,Universal Pet Care,17,4.5,10471,40.9050695,-73.8973424,groomer
+30,3MKC2SpIMFoS_cSRlgXb8g,Trim Up The Pup,30,3.5,11375,40.7226600646973,-73.8479080200195,groomer
+31,GjZvsVcB9CtzbWcxbW6D_A,Pet Doctor of Flushing,29,4.0,11358,40.773233,-73.79639,vet
+32,X8SAP2if2kEfArbU4jM2XA,Terry's Pet Stop,44,3.5,07950,40.843886,-74.467031,petstore
+33,JrLxXP1DeaJQ_gBE0NYTjg,Biscuits & Bath,63,3.5,10011,40.73643792748778,-73.99602448986285,pet_sitting
+34,9WadpCwtyMsiuUE5l_CaZw,Luxury Pet Spa & Boutique,53,3.0,11040,40.733096,-73.683859,groomer
+35,F4y_Df_2w0Tya99ufDitZA,Groom-O-Rama,16,2.0,10011,40.73624,-73.997261,pet_sitting
+36,xHhBTK6ruQ1_aFWvZ7gz4w,Humane Society of New York,206,3.5,10022,40.76016,-73.96388,animalshelters
+37,fdiJrHP5QDZo4rz9lRSHiw,Pet Pantry Warehouse,1,5.0,10583,40.972567,-73.804621,petstore
+38,YSgPH3iTfSgOM3C7ZxDLLA,Riverside Animal Hospital North,138,4.0,10025,40.8025649758151,-73.9670139738859,vet
+39,CDGqpM-DrpR9J8hV-4f-yA,Pet Supplies Plus - Fair Lawn,22,4.0,07410,40.9395277,-74.1189854,petstore
+40,Wtnjxg5ajfWKkCQ-Ez3v4A,"Shadows Pet Services, LLC",4,4.0,10065,40.7651983558212,-73.961896258197,groomer
+41,RiVKOiKDLvlB22uUSqZVUQ,You Lucky Dog,30,4.5,07306,40.73699,-74.06715,groomer
+42,rY7nJ0ulxctrIZAHlShPbQ,Westchester Puppies & Kittens,184,2.0,10523,41.01791,-73.79888,petstore
+43,gHVXX6b5tJfEaRDVAy_m_Q,New York Dog Spa & Hotel,150,4.5,10010,40.74353,-73.9906,groomer
+44,PCTppxofxtWZtS5G4eMicQ,Harlem Doggie Day Spa,104,4.0,10031,40.825068,-73.943678,groomer
+45,BmWuzUy8r9oHxV8m92YTtQ,Petco,28,2.5,10550,40.899,-73.8182,pet_training
+46,c3NgO5_iFgFU_kc9t_TXgg,Lovely Puppy,3,1.0,11105,40.774566,-73.913613,groomer
+47,2wycKr2MQEzI3dCX7fXoMQ,Petco,10,4.0,07624,40.970349,-73.9555,pet_training
+48,pa02QgheaNRpSiKZSXuAWg,Petco,13,4.5,07432,40.984357,-74.139405,groomer
+49,VTjgixuxgOU4g3LZ4Qkz0g,BYOP,20,4.5,10301,40.61616814057363,-74.1030347075765,groomer

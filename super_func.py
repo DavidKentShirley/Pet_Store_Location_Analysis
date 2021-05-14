@@ -11,7 +11,7 @@ import geocoder
 import geopy
 import geojson
 import geopandas as gpd
-
+import matplotlib.pyplot as plt
 
 # Functions
 def yelp_call(url_params, creds):
@@ -95,11 +95,17 @@ long = -73.794
 
 
 geoJSON_df = gpd.read_file(url_geo)
+
 geo_data_Q1 = geoJSON_df['borough'] == "Queens"
 geo_data_Q = geoJSON_df[geo_data_Q1]
 
 geo_data_M1 = geoJSON_df['borough'] == "Manhattan"
 geo_data_M = geoJSON_df[geo_data_M1]
+
+geo_data_r1 = geoJSON_df['neighborhood'] == "Upper East Side"
+geo_data_r = geoJSON_df[geo_data_r1]
+
+
 
 M_zips = pd.read_csv('./csv/Mzips.csv')
 Mzips = list(M_zips['Zip'])
@@ -108,3 +114,14 @@ Q_zips = pd.read_csv('./csv/Qzips.csv')
 Qzips = list(Q_zips['Zip Code'])
 
 
+# Data Cleaning 
+
+zipcodesinqueenscounty = list(pd.read_csv('QueensZipCodes.csv')['Zip'])
+
+zipcodesinNYcounty = list(pd.read_csv('ManhattanZipCodes.csv')['Zip'])
+
+DogParks_Manhattan_DF = pd.read_csv('dogparkmanhattan.csv')
+
+actualdogpark = DogParks_Manhattan_DF[DogParks_Manhattan_DF['category1'] == 'dog_parks']
+
+dogparksinNYzipcodes = actualdogpark[actualdogpark['zip_code'].isin(zipcodesinNYcounty)]
